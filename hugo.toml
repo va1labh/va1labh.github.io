@@ -1,8 +1,10 @@
-baseURL = "http://va1labh.gitlab.io/"
+baseURL = "http://va1labh.github.io/"
 languageCode = "en-us"
-title = "Ink"
+title = "Bored Electron"
 theme = "hugo-ink"
 paginator.page = 5
+
+enableEmoji = true
 
 copyright = "© Copyright notice"
 
@@ -10,14 +12,14 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "Tech musings and other stuff :satellite: [Vallabh D](https://github.com/va1labh)"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://avatars.githubusercontent.com/u/67852658?s=400&u=006e29e33e5d3f0141c633e9e3e4a886eb1e7fc6&v=4"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -46,9 +48,14 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
+name = "Gallery"
+url = "/gallery/gallery"
+weight = 4
+
+[[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[params.social]]
 name = "Github"
