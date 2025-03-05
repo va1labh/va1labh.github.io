@@ -14,13 +14,13 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 03 Mar 2025 23:51:52 +0530</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I am Vallabh.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I am Vallabh.&lt;/p&gt;&#xA;&lt;p&gt;I am an engineer. I work on embedded automotive projects. I use C all the time and am flexible enough to learn python.&lt;/p&gt;&#xA;&lt;p&gt;This is my blog - The Siliconomist. I write about tech, science and any stuff that grabs my attention. I also have my trip photos in my gallery.&lt;/p&gt;&#xA;&lt;p&gt;Currently this static site is hosted using hugo, using the ink-theme by knadh. I plan to improve the theme and add updates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gallery</title>
-      <link>http://localhost:1313/gallery/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Fri, 14 Feb 2025 00:32:19 +0530</pubDate>
-      <guid>http://localhost:1313/gallery/gallery/</guid>
+      <guid>http://localhost:1313/gallery/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/KonKanKada.jpg&#34; alt=&#34;KonKanKada&#34; title=&#34;KonKanKada, Pune, Maharashtra&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My trek to KonKanKada.&lt;/p&gt;</description>
     </item>
     <item>
