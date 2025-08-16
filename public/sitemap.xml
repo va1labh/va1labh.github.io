@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-03-03T23:51:52+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-17T00:53:56+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/canmsg_mux/</loc>
+    <lastmod>2025-08-17T00:53:56+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-17T00:53:56+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-03-03T23:51:52+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2025-02-14T00:32:19+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first_post/</loc>
-    <lastmod>2025-02-13T16:57:54+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-13T16:57:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

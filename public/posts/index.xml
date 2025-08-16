@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 13 Feb 2025 16:57:54 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 00:53:56 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing Embedded Systems with CAN Message Multiplexing in C</title>
+      <link>http://localhost:1313/posts/canmsg_mux/</link>
+      <pubDate>Sun, 17 Aug 2025 00:53:56 +0530</pubDate>
+      <guid>http://localhost:1313/posts/canmsg_mux/</guid>
+      <description>In the world of embedded systems, particularly in automotive applications, the Controller Area Network (CAN) protocol is a crucial backbone for communication between Electronic Control Units (ECUs). A powerful technique used to manage data efficiently on the CAN bus is multiplexing.&#xA;Multiplexing allows a single CAN message to carry data for multiple different parameters.&#xA;This blog post explores an optimized C programming approach to process these multiplexed messages. Instead of using verbose if-else or switch statements, we will demonstrate how to use pointers and structures to create a more compact, scalable, and efficient solution.</description>
+    </item>
     <item>
       <title>First post</title>
       <link>http://localhost:1313/posts/first_post/</link>
       <pubDate>Thu, 13 Feb 2025 16:57:54 +0530</pubDate>
       <guid>http://localhost:1313/posts/first_post/</guid>
-      <description>&lt;p&gt;Hi all. This is my first post!&lt;/p&gt;</description>
+      <description>Hi all. This is my first post!</description>
     </item>
   </channel>
 </rss>
