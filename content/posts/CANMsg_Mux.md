@@ -8,7 +8,7 @@ In the world of embedded systems, particularly in automotive applications, the *
 
 [Multiplexing is a method used in CAN bus communication to increase the number of transmitted signals, at the cost of reducing the effective sample rate of each signal.](https://in.mathworks.com/help/vnt/ug/multiplexing-and-demultiplexing-can-messages.html)
 
-![Can_mux_example](/images/Can_mux_example.png)
+![Can_mux_example](/images/Can_mux_example.jpg)
 
 This blog post explores an **optimized C programming approach** to process these multiplexed messages. Instead of using verbose `if-else` or `switch` statements, we will demonstrate how to use **pointers and structures** to create a more compact, scalable, and efficient solution.
 
