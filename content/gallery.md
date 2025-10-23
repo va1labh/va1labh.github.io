@@ -8,4 +8,4 @@ title = 'Gallery'
 
 My trek to KonKanKada.
 
-![Sunset](/images/sunset1.jpg)
+![Sunset](/images/sunset1.jpg "Sunset") 
